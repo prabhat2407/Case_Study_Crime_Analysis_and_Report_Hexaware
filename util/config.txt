@@ -1,0 +1,5 @@
+host = localhost
+database = cars
+user = root
+password = prabhat24
+port = 3306
